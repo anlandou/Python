@@ -1,7 +1,7 @@
 # Python
 Learning and Mastering Python 
 
-Here you will find notes and code snippets of topics that I've learned in a python tutorial. 
+I will post files containing notes and code snippets of topics that I've learned from a python tutorial. 
  Wish me luck! 
  
  
