@@ -1,0 +1,40 @@
+*Introduction
+
+  --> What is Python? 
+
+	A high-level programming language, meaning it is programmer friendly and 
+not machine friendly :: easy to write, easy to understand 
+ 
+    Ex: 
+	a = 10 
+	b = 20
+	c = 30 if a > b else 40
+	print(c)
+    It is also a general purpose language :: able to create all types of programs 
+    
+    Founder :: Guido Van Rossum, released 1991 
+
+    Benefits: 
+	
+      Concise code 
+      Easy to understand
+      AI, Machine Learning, Deep Learning, Neural Networks, Data Science 
+      IoT
+
+TIMESTAMP #2
+
+    	
+*Application areas of Python 
+
+*Features of Python 
+
+*Limitations of Python
+
+*Flavors of Python 
+
+*Python Versions
+
+*Identifiers
+
+*Reserved Words 
+ 
