@@ -21,18 +21,110 @@ not machine friendly :: easy to write, easy to understand
       AI, Machine Learning, Deep Learning, Neural Networks, Data Science 
       IoT
 
-TIMESTAMP #2
+
+To learn any language start with Hello World!
+ Ex: 
+
+#print Hello World
+
+ 
+print("Hello World); 
+
+num1= 4, num2= 3 // No other language accepts this type of syntax 
+
+//You do not have to declare a variable in python, this is what is known as a dynamically typed programming language. Some other examples of other languages that are dynamic are: JavaScript, Ruby, etc. 
+
+print("the sum is: " , num1+num2); 
+
+C ---> functional programming language // Not object oriented 
+
+c++, Java ---> OOP // Reusability, inheritance 
+
+Perl, Shell Script ---> Scripting Languages Group of lines, one by one
+
+
+Although Python is a mixture of all: 
+      				
+				- It borrowed functional programming from C
+				- Object-Oriented Programming from C++ 
+				- Scripting language from Perl, Shell Script 
+				- Lastly Modular (Don't worry about this one too much) 
+
+Basically, Python is an All Rounder! 
+
+So what is meant by scripting language? 
+
+		-Every thing is done line by line. No functions, no classes 
+
+Functional Programming : 
+			
+		- def fun(): 
+
+OOP: 
+	- class Test: 
+		
+		def fun(): 
+T = fun();
 
     	
 *Application areas of Python 
 
+		-Desktop Applications 
+		-Web Applications //using frameworks
+		-Network Applications // client server applications
+		-Game Development Applications
+		-Data Analysis
+		-ML, Deep Learning, Neural Networks, AI, IoT...
+
 *Features of Python 
 
+   -- Simple and easy to learn
+
+   -- Freeware and open source ---> No license required, No fee (freeware) anyone can use --> Owner Python Software Foundation NOT for profit 
+    ---> (Open Source) Open to everyone ---> customizable, able to edit and make changes ---> making multiple flavors available 
+
+   -- High Level Programming Language --> programmer friendly --> no worries of memory management, garbage collector, etc. 
+
+   -- Platform Independent ---> can run on any software/ platform (operating system)
+          ----> write once, run anywhere 
+
+   -- Portability --> easy to transport --> from one platform to another 
+     
+   -- Dynamically Typed ---> assign and use the same variable multiple times  
+
+   -- Both procedure oriented and object oriented 
+
+   -- Interpreted --> just runs not compiled 
+
+   -- Extensible  --> other language applications can be used in python 
+
+   -- Embedded    --> can use python application in other programming language applications 
+
+   -- Extensive Library --> Rich library ---> rich life support 
+   -- etc. 
+      
 *Limitations of Python
 
+          -- Bad choice for mobile applications 
+	  -- Enterprise Applications... like banking applications, telecom, and etc. 
+	  -- Performance is low because it is interpreted language	
+
 *Flavors of Python 
+   
+    	  --Cpython: C Language Python	
+	  --JPython: Java language python 
+          --Anaconda Python: To work with large volumes of data 
+	  --etc. 
 
 *Python Versions
+  
+      		0.9.0 --> First Version 
+		1.0.0 --> Second Version 
+		2.0.0 --> Third Version 
+		3.0.0 --> Fourth Released 2008 
+		3.8.2 --> What I have 
+
+Timestamp #13 
 
 *Identifiers
 
