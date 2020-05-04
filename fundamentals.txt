@@ -124,9 +124,113 @@ T = fun();
 		3.0.0 --> Fourth Released 2008 
 		3.8.2 --> What I have 
 
-Timestamp #13 
-
 *Identifiers
+
+   A name in python for variables, class, methods, and etc. are known as identifiers used for identification purposes 
+
+    --Rules to create identifiers: 
+    
+     1. a-z 
+     2. A-Z 
+     3. 0-9 
+     4. _ --> underscore 
+
+                                cash = 10 (Good)
+				ca$h = 10 (Not allowed) 
+                                all@hands = 10 (Not Allowed) 
+
+     Identifiers cannot start with digits 
+
+     Python is a case sensitive language 
+     No length limit for python identifiers 
+
+Check this out: 
+
+		x --> normal variable 
+	       _x --> Protected Variable 
+	      __x --> Private Variable 
+	    __x__ --> Magic Variable // predefined identifiers 
+
+That's very interesting!
 
 *Reserved Words 
  
+    ---Words that cannot be used for any other purpose than what they are meant for e.g if ---> reserved of if statements 
+
+--------------------------------------------------------------------------------------
+There are 33 reserved words in python: 
+
+Boolean:
+1. True 
+2. False
+3. None 
+
+Operators:
+4. and
+5. or
+6. not
+7. is
+
+Conditionals: 
+8. if
+9. elif
+10.else
+
+Control flows: 
+11. While
+12.For
+13.break 
+14.continue
+15.return 
+16.in
+17.yield 
+
+Exceptions:
+18.try 
+19.except
+20.finally
+21.raise
+22.assert
+
+Etc: 
+23.import
+24.from
+25.as
+26.class
+27.def
+28.pass
+29.global
+30.nonlocal
+31.lambda
+32.del
+33.with
+-----------------------------ALL CONTAIN ALPHABET SYMBALS----------------------------
+
+
+*Data Types
+
+--Data types are automatically determined by the Python Virtual Machine --so need for data type declaration 
+
+Int 
+Float 
+Complex
+Bool 
+Str 
+
+List 
+Tuple 
+Set 
+Frozen set 
+Dict 
+
+Bytes
+Bytearray
+Range
+None 
+
+
+Everything in python is an object! 
+
+TIMESTAMP #16 
+ 
+
