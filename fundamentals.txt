@@ -204,7 +204,7 @@ Etc:
 31.lambda
 32.del
 33.with
------------------------------ALL CONTAIN ALPHABET SYMBALS----------------------------
+-----------------------------ALL CONTAIN ALPHABET SYMBOLS----------------------------
 
 
 *Data Types
@@ -231,6 +231,54 @@ None
 
 Everything in python is an object! 
 
-TIMESTAMP #16 
- 
+type()
+id()
+print()
 
+*Int Data Types: 
+
+10
+120 
+
+No decimal Points (Whole numbers) 
+
+Long 12345678933903. ---> Available only in python 2 Not in python 3 
+Int 5678...
+
+Decimal form (base 10)
+Binary form (base 2) --> 0 and 1 ex: a = OB1111 print(a) = 15 
+Octal form (base 8) ---> (0 to 7)
+Hexadecimal (base 16) ---> 0 to 9, A to F
+
+
+*Int base conversion functions: 
+
+1) bin() ---->   
+2) oct() ----> 
+3) hex() ----> 
+
+*Float Data Types: 
+
+Decimal points only 
+
+Just like long, double does not exist in python 
+
+
+*Complex Data Types: 
+
+Ex: 
+a+bj // a = real b = imaginary part 
+
+x = 10 + 20j 
+
+print(type(a)) == complex 
+
+*boolean data type: 
+
+Only allowed values are: True or False 
+
+1 == True 
+2 == False 
+
+
+TIMESTAMP #21 
