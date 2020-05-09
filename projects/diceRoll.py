@@ -1,25 +1,20 @@
-import random
+import random 
 
-def main():
-  num = random.randint(1, 6)
+def diceRoll():
+  num = random.randint(1,6)
 
-  print(num)
+  print("this program will randomly generate a number from a dice roll \n")
 
-  print("The number is", num)
+  print("the number is:",num)
 
-print(
-  "Would you like to roll the dice again? (Please type yes or no only)")
+  print("would you like to roll again (please type yes or no only please) \n")
 
-x = input()
+  x = input()
 
-yes = "yes"
+  if(x == "yes"):
+    print("\n")
+    diceRoll()
+  else:
+    print("thanks for playing!\n")
 
-if (x == yes):
-    main()
-
-else :
-  print("Thanks for playing")
-
-return
-
-main()
+diceRoll()
